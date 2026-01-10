@@ -14,20 +14,6 @@
 
 ---
 
-### 🌟 Featured Projects
-🔹 **Smart Truck Loading Optimization System**  
-A smart web platform that optimizes truck loading capacity to reduce fuel usage and CO₂ emissions using data-driven decision making.
-
-
-🔹 **Municipal Complaint System**  
-A role-based complaint management system that allows citizens to register issues and enables authorities to track, prioritize, and resolve complaints efficiently.
-
-🔹 **Crop Production Forecasting**  
-A machine learning–based system that predicts crop yield using historical data and environmental factors to help farmers make informed decisions.
-
-
----
-
 ### 📊 What I’m Working On
 - Improving DSA & problem-solving skills  
 - Building full-stack hackathon-ready projects  
