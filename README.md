@@ -1,4 +1,4 @@
-## Hi 👋 I'm Bhavya Vaish
+## Hi I'm Bhavya Vaish
 
 🚀 Full-Stack Developer | MERN Stack  
 💻 Passionate about building real-world applications  
