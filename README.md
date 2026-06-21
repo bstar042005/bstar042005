@@ -1,45 +1,43 @@
-<h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
+<h1 align="center">Hi 👋, I'm Bhavya Vaish</h1>
 
 <h3 align="center">
 CSE Undergraduate @ IIITDM Jabalpur
 </h3>
 
 <p align="center">
-🤖 AI/ML • 🌐 Full Stack Development • 🏆 Hackathons • 💻 DSA
+AI/ML • Full Stack Development • Hackathons • DSA
 </p>
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student at IIITDM Jabalpur
+B.Tech CSE Student at IIITDM Jabalpur
 
-💡 Passionate about building AI-powered applications and scalable web solutions
+Passionate about building AI-powered applications and scalable web solutions
 
-🏆 Active Hackathon Participant
+Active Hackathon Participant
 
-🦾 Currently working on an EMG-Based Prosthetic Arm
+Learning System Design and Advanced Data Structures & Algorithms
 
-📚 Learning System Design and Advanced Data Structures & Algorithms
-
-🌱 Exploring Machine Learning, NLP, and Full-Stack Development
+Exploring Machine Learning, NLP, and Full-Stack Development
 
 ## 🔥 Featured Projects
 
-🚦 Traffic Demand Prediction
+Traffic Demand Prediction
 Machine Learning model for forecasting traffic demand using weather, geographical, and temporal features.
 
-💬 ConvoCheck
+ConvoCheck
 AI-powered conversation summarization and toxicity detection platform.
 
-🎥 Video Summarizer
+Video Summarizer
 Automatic transcript generation and intelligent video summarization.
 
-❓ Duplicate Question Detection
+Duplicate Question Detection
 NLP-based semantic similarity prediction system.
 
-🚚 Smart Truck Loading Optimization
+Smart Truck Loading Optimization
 Logistics optimization platform for efficient cargo placement.
 
-🏙️ Municipal Complaint Management System
+Municipal Complaint Management System
 Citizen grievance redressal platform with role-based administration.
 
 ## 🛠 Tech Stack
