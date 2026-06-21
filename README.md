@@ -1,44 +1,75 @@
-## Hi I'm Bhavya Vaish
+<h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 
-🚀 Full-Stack Developer | MERN Stack  
-💻 Passionate about building real-world applications  
-🏆 Hackathon Enthusiast  
+<h3 align="center">
+CSE Undergraduate @ IIITDM Jabalpur
+</h3>
 
----
+<p align="center">
+🤖 AI/ML • 🌐 Full Stack Development • 🏆 Hackathons • 💻 DSA
+</p>
 
-### 🔧 Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript  
-- Backend: Node.js, Express.js  
-- Database: MongoDB, MySQL  
-- Languages: C, C++, Java, Python  
+## 🚀 About Me
 
----
+🎓 B.Tech CSE Student at IIITDM Jabalpur
 
-### 📊 What I’m Working On
-- Improving DSA & problem-solving skills  
-- Building full-stack hackathon-ready projects  
-- Learning scalable backend systems  
+💡 Passionate about building AI-powered applications and scalable web solutions
 
----
+🏆 Active Hackathon Participant
 
-### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/bhavya-vaish-9b31b7324
-- Email: bhavya.16419@gmail.com 
+🦾 Currently working on an EMG-Based Prosthetic Arm
 
-⭐ *Always open to collaboration and hackathons!*
+📚 Learning System Design and Advanced Data Structures & Algorithms
 
+🌱 Exploring Machine Learning, NLP, and Full-Stack Development
 
-<!--
-**bstar042005/bstar042005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Featured Projects
 
-Here are some ideas to get you started:
+🚦 Traffic Demand Prediction
+Machine Learning model for forecasting traffic demand using weather, geographical, and temporal features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 ConvoCheck
+AI-powered conversation summarization and toxicity detection platform.
+
+🎥 Video Summarizer
+Automatic transcript generation and intelligent video summarization.
+
+❓ Duplicate Question Detection
+NLP-based semantic similarity prediction system.
+
+🚚 Smart Truck Loading Optimization
+Logistics optimization platform for efficient cargo placement.
+
+🏙️ Municipal Complaint Management System
+Citizen grievance redressal platform with role-based administration.
+
+## 🛠 Tech Stack
+
+### Languages
+C++ • Python • JavaScript • SQL
+
+### Frontend
+React • HTML • CSS • Tailwind
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • MySQL
+
+### AI / ML
+Scikit-Learn • NLP • Pandas • NumPy
+
+### Tools
+Git • GitHub • VS Code • Postman
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bstar042005&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bstar042005&layout=compact)
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/bhavya-vaish-9b31b7324
+
+Email: bhavya.16419@gmail.com
+
+GitHub: github.com/bstar042005
