@@ -7,11 +7,6 @@ Computer Science Undergraduate @ IIITDM Jabalpur
 <p align="center">
 Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive Programming
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bstar042005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 # 🚀 About Me
