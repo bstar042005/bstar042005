@@ -9,38 +9,28 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 </p>
 
 <p align="center">
-<a href="https://github.com/bstar042005">
-<img src="https://komarev.com/ghpvc/?username=bstar042005&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=bstar042005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science @ IIITDM Jabalpur
-
-💻 Interested in Software Engineering, Backend Systems & AI
-
-🌱 Currently learning
-
-- System Design
-- Advanced DSA
-- Computer Networks
-- Operating Systems
-
-🏆 Active Hackathon Participant
-
-⚡ Solving problems on LeetCode & CodeChef
+- 🎓 B.Tech in Computer Science & Engineering at **IIITDM Jabalpur**
+- 💻 Passionate about **Software Engineering, AI/ML, Backend Development & Problem Solving**
+- 🌱 Currently learning **System Design, Operating Systems, Computer Networks & Advanced DSA**
+- 🏆 Active Hackathon Participant
+- ⚡ Solved **140+ DSA problems**
+- 🎯 Aspiring Software Engineer
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
 </p>
 
 ### Frontend
@@ -61,6 +51,13 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### AI / ML
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- NLP
+
 ### Tools
 
 <p>
@@ -71,82 +68,87 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 
 # 🔥 Featured Projects
 
-## 📦 StockPilot
-AI-powered inventory & warehouse management platform for real businesses.
+## 📦 StockPilot – AI Inventory & Warehouse Management
 
-**Tech:** React • Node.js • Express • MongoDB
+- AI-powered inventory and warehouse management platform
+- Smart product search and stock tracking
+- Built for a real stationery business
+
+**Tech Stack:** React • Node.js • Express • MongoDB
 
 ---
 
 ## 🚚 Smart Truck Loading Optimization
 
-Optimizes cargo placement for efficient logistics using algorithmic optimization.
+- Optimizes cargo placement for efficient logistics
+- Improves loading efficiency using optimization algorithms
 
 ---
 
 ## 🚦 Traffic Demand Prediction
 
-Machine Learning model that predicts traffic volume using weather, time and location features.
+- Machine Learning model for traffic forecasting
+- Uses weather, geographical and temporal features
 
 ---
 
 ## 🎥 Video Summarizer
 
-Automatic speech transcription with AI-generated summaries.
+- Automatic transcript generation
+- AI-powered video summarization
 
 ---
 
 ## 💬 ConvoCheck
 
-AI-powered conversation summarization and toxicity detection platform.
+- Conversation summarization
+- Toxicity detection using NLP
 
 ---
 
 ## 📝 Duplicate Question Detection
 
-NLP project for semantic similarity prediction.
+- NLP-based semantic similarity prediction
+- Machine Learning classification model
 
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bstar042005&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar042005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=bstar042005&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bstar042005&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🏅 Competitive Programming
 
-- 💙 LeetCode Rating: **1480 (Pupil)**
-- ⭐ CodeChef: **2★ (1468)**
-- 💯 Solved 140+ DSA Problems
+- 💙 **LeetCode:** Rating **1480 (Pupil)**
+- ⭐ **CodeChef:** **2★ (1468)**
+- 💯 Solved **140+ DSA Problems**
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://linkedin.com/in/bhavya-vaish-9b31b7324">
-LinkedIn
+<a href="https://www.linkedin.com/in/bhavya-vaish-9b31b7324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-•
 
 <a href="mailto:bhavya.16419@gmail.com">
-Email
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-•
 
 <a href="https://github.com/bstar042005">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
