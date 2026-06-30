@@ -7,7 +7,6 @@ Computer Science Undergraduate @ IIITDM Jabalpur
 <p align="center">
 Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive Programming
 </p>
----
 
 # 🚀 About Me
 
