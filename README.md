@@ -8,14 +8,14 @@ Computer Science Undergraduate @ IIITDM Jabalpur
 Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive Programming
 </p>
 
-# 🚀 About Me
+# About Me
 
-- 🎓 B.Tech in Computer Science & Engineering at **IIITDM Jabalpur**
-- 💻 Passionate about **Software Engineering, AI/ML, Backend Development & Problem Solving**
-- 🌱 Currently learning **System Design, Operating Systems, Computer Networks & Advanced DSA**
-- 🏆 Active Hackathon Participant
-- ⚡ Solved **140+ DSA problems**
-- 🎯 Aspiring Software Engineer
+- B.Tech in Computer Science & Engineering at **IIITDM Jabalpur**
+- Passionate about **Software Engineering, AI/ML, Backend Development & Problem Solving**
+- Currently learning **System Design, Operating Systems, Computer Networks & Advanced DSA**
+- Active Hackathon Participant
+- Solved **140+ DSA problems**
+- Aspiring Software Engineer
 
 ---
 
@@ -60,9 +60,9 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 
 ---
 
-# 🔥 Featured Projects
+# Featured Projects
 
-## 📦 StockPilot – AI Inventory & Warehouse Management
+## StockPilot – AI Inventory & Warehouse Management
 
 - AI-powered inventory and warehouse management platform
 - Smart product search and stock tracking
@@ -72,42 +72,42 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 
 ---
 
-## 🚚 Smart Truck Loading Optimization
+## Smart Truck Loading Optimization
 
 - Optimizes cargo placement for efficient logistics
 - Improves loading efficiency using optimization algorithms
 
 ---
 
-## 🚦 Traffic Demand Prediction
+## Traffic Demand Prediction
 
 - Machine Learning model for traffic forecasting
 - Uses weather, geographical and temporal features
 
 ---
 
-## 🎥 Video Summarizer
+## Video Summarizer
 
 - Automatic transcript generation
 - AI-powered video summarization
 
 ---
 
-## 💬 ConvoCheck
+## ConvoCheck
 
 - Conversation summarization
 - Toxicity detection using NLP
 
 ---
 
-## 📝 Duplicate Question Detection
+## Duplicate Question Detection
 
 - NLP-based semantic similarity prediction
 - Machine Learning classification model
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bstar042005&theme=tokyonight&hide_border=true"/>
@@ -115,15 +115,15 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 
 ---
 
-# 🏅 Competitive Programming
+# Competitive Programming
 
-- 💙 **LeetCode:** Rating **1490 (Pupil)**
-- ⭐ **CodeChef:** **2★ (1506)**
-- 💯 Solved **150+ DSA Problems**
+- **LeetCode:** Rating **1490 (Pupil)**
+- **CodeChef:** **2★ (1506)**
+- Solved **150+ DSA Problems**
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="center">
 
