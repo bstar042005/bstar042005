@@ -117,9 +117,9 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 
 # 🏅 Competitive Programming
 
-- 💙 **LeetCode:** Rating **1480 (Pupil)**
-- ⭐ **CodeChef:** **2★ (1468)**
-- 💯 Solved **140+ DSA Problems**
+- 💙 **LeetCode:** Rating **1490 (Pupil)**
+- ⭐ **CodeChef:** **2★ (1506)**
+- 💯 Solved **150+ DSA Problems**
 
 ---
 
