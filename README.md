@@ -19,7 +19,7 @@ Aspiring Software Engineer • AI/ML • Full Stack Development • Competitive 
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
